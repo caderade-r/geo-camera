@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Geo-Camera</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_photo_description">Enter photo description</string>
+    <string name="launch_camera_capture">Launch Camera &amp; Capture</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782254638966",
+    "project_id": "mp-geocamera",
+    "storage_bucket": "mp-geocamera.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782254638966:android:399bc7d35f5b8a84ad9c57",
+        "android_client_info": {
+          "package_name": "edu.uark.cm288.geo_camera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZxSl5Z1ysAjo4vykkL-nv_uvzcg_AQyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
